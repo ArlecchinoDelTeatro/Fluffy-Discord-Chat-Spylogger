@@ -8,8 +8,10 @@ Bash Discord Chat-SpyLogger
 - ping
 - jq
 
-# How to run
+# How to run:
 bash spybot.sh
+https://youtu.be/BTqTpq1Y3RI
 
-# Warning
+# Warning:
 Don't use Python 2.x Httpie , only 3.x Httpie
+
