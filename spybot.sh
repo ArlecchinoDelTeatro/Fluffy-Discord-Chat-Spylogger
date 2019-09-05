@@ -30,8 +30,6 @@ check_if_root
 check_lines() {
 	if [[ $(cat temp_logs.txt | wc -l) -gt 10 ]];
 	then
-		echo "test"
-		sleep 5
 		rm -r temp_logs.txt
 		touch temp_logs.txt
 	else
